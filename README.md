@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Ivan Yael Garcia</h1>
-<h3 align="center">A passionate mobile developer from México,</h3>
+<h1 align="center">Hi there 👋, I'm Ivan Yael Garcia Perez</h1>
+<h3 align="center">A passionate software developer from México,</h3>
 
 - 🔭 I’m currently working on **Clean Architecture** and Mobile Solutions
 
