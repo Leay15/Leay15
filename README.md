@@ -24,6 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leay15&theme=default" alt="Leay15" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leay15)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Leay15/Leay15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
