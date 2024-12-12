@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Ivan Yael Garcia Perez</h1>
 <h3 align="center">A passionate software developer from México,</h3>
 
-- 🔭 I’m currently working on **Clean Architecture** and Mobile Solutions
+- 🔭 I’m currently working on **Clean Architecture**, Mobile Solutions and Cloud architecture with K8S
 
-- 🌱 I’m currently learning **Swift, iOS, Dart, Flutter, Kotlin Multiplatform, K8S, AWS, Python, NodeJS**
+- 🌱 I’m currently learning **Scala, Kotlin Multiplatform, K8S,**
 
-- 💬 Ask me about **Mobile Apps, Android, Kotlin, Java, Docker, CI/CD**
+- 💬 Ask me about **Mobile Apps, Android, Kotlin, Java, Python, K8S, AWS, Docker, CI/CD**
 
 - 📫 How to reach me **isc.ivan.yael.gp@gmail.com**
 
